@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="202.197.9.252" id="12c5f44f-7fd5-4509-8214-eed0f6ed6d88" port="2222" customName="tengxiao" nameFormat="CUSTOM" username="tengxiao" useOpenSSHConfig="true">
+        <option name="customName" value="tengxiao" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="100.65.39.51" id="9050145f-fbce-40cb-925c-bfd5d6cff801" port="22" customName="chendinyao" nameFormat="CUSTOM" username="touchnow" useOpenSSHConfig="true">
+        <option name="customName" value="chendinyao" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
